@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Formulario de registro 2</string>
+
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_apellidos">Apellidos</string>
+    <string name="txt_correo">Correo electrónico</string>
+    <string name="txt_phone">Teléfono</string>
+    <string name="txt_politicaprivacidad">Acepto la POLÍTICA DE PRIVACIDAD para ser miembro.</string>
+
+    <string name="txt_error_nombre">El nombre es obligatorio</string>
+    <string name="txt_error_apellidos">Los apellidos son obligatorios</string>
+    <string name="txt_error_correo">El correo electrónico es obligatorio</string>
+    <string name="txt_error_phone">El teléfono es obligatorio y debe tener 9 dígitos</string>
+
+    <string name="txt_registro_ok">Registro correcto</string>
+    <string name="txt_registro_error">No se ha podido realizar el registro</string>
+
+    <string name="txt_usuario_vip">Soy usuario VIP</string>
+</resources>
