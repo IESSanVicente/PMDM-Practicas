@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book List</string>
+
+    <string name="txt_book_deleted">%s deleted</string>
+    <string name="txt_undo">UNDO</string>
+    <string name="txt_isbn">ISBN: %s</string>
+</resources>
